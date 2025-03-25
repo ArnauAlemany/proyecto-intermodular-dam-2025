@@ -7,7 +7,7 @@ Proyecto intermodular para el Desarrollo de Aplicaciones Multiplataforma (DAM) c
 
 ## Instrucciones de instalación y ejecución
 
-## Capturas de pantalla del proyecto funcionand
+## Capturas de pantalla del proyecto funcionando
 
 ## Créditos
 - Arnau Alemahy Espert
